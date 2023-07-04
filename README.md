@@ -16,6 +16,7 @@ Technologies Used
 *Getting Started
 
 -Clone the repository: git clone <https://github.com/BrijeshPatra/FacebookBackend-restApi.git)>
+
 -Import the project into your preferred Java IDE.
 -Configure the database connection in the application.properties file.
 -Run the application using the IDE or by running the mvn spring-boot:run command in the terminal.
